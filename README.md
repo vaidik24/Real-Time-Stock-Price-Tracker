@@ -1,7 +1,3 @@
-Here’s the updated README for your Real-Time Stock Price Tracker, now enhanced with emojis for better engagement:
-
----
-
 # Real-Time Stock Price Tracker 📈
 
 A dynamic and intuitive stock price tracker application that provides real-time updates, allows users to manage a personalized watchlist, and receive notifications for stock alerts. This project is built with React and Tailwind for the frontend and Node.js/Express for the backend, featuring WebSocket integration for live data streaming.
